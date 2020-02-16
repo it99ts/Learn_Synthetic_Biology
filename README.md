@@ -6,6 +6,7 @@
 
 ### Module 1: Intro to Biology
 - MIT Intro to Biology https://ocw.mit.edu/courses/biology/7-012-introduction-to-biology-fall-2004/index.htm 
+https://www2.estrellamountain.edu/faculty/farabee/biobk/biobooktoc.html
 
 ### Module 2: Intro to Biochemistry
 - OSU iTunes Biochemsitry https://itunes.apple.com/us/course/biochemistry/id556410409 
